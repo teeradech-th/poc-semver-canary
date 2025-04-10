@@ -1,3 +1,16 @@
+# [1.2.0](https://github.com/teeradech-th/poc-semver-canary/compare/v1.1.1...v1.2.0) (2025-04-10)
+
+
+### Bug Fixes
+
+* **act:** ignore act file ([#12](https://github.com/teeradech-th/poc-semver-canary/issues/12)) ([0872dd1](https://github.com/teeradech-th/poc-semver-canary/commit/0872dd1874e68d9ce8ac478195a6c316e1dd3642))
+* **gha:** change release event ([#14](https://github.com/teeradech-th/poc-semver-canary/issues/14)) ([24401ad](https://github.com/teeradech-th/poc-semver-canary/commit/24401ad33060895b83a8666d5d3ce8bf33848382))
+
+
+### Features
+
+* **node-version:** specific node engines ([#7](https://github.com/teeradech-th/poc-semver-canary/issues/7)) ([91bbb6d](https://github.com/teeradech-th/poc-semver-canary/commit/91bbb6d016ed0d8a176cd3332f23e91e9abb0431))
+
 # [1.2.0-development.4](https://github.com/teeradech-th/poc-semver-canary/compare/v1.2.0-development.3...v1.2.0-development.4) (2025-04-10)
 
 
