@@ -6,6 +6,7 @@ on:
       - main
       - next
 
+
 env:
   GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
