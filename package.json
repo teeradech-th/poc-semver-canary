@@ -10,6 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/teeradech-th/poc-semver-canary.git"
   },
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
   "license": "ISC",
   "author": "Teeradech Thanapop",
   "type": "commonjs",
