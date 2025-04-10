@@ -1,3 +1,18 @@
+# [1.3.0-dev.1](https://github.com/teeradech-th/poc-semver-canary/compare/v1.2.0...v1.3.0-dev.1) (2025-04-10)
+
+
+### Bug Fixes
+
+* **release:** update prerelease name ([#22](https://github.com/teeradech-th/poc-semver-canary/issues/22)) ([b7deb4e](https://github.com/teeradech-th/poc-semver-canary/commit/b7deb4ee573316f9c41d462adf981db7c80097e3))
+* sync production changed ([#18](https://github.com/teeradech-th/poc-semver-canary/issues/18)) ([d5dba9a](https://github.com/teeradech-th/poc-semver-canary/commit/d5dba9a5740d846b18df0cdc0997effac40c91b4)), closes [#17](https://github.com/teeradech-th/poc-semver-canary/issues/17) [#17](https://github.com/teeradech-th/poc-semver-canary/issues/17)
+
+
+### Features
+
+* **readme:** add readme detail ([#19](https://github.com/teeradech-th/poc-semver-canary/issues/19)) ([b0c1277](https://github.com/teeradech-th/poc-semver-canary/commit/b0c127714963a12e83145508a3843f07faee61bd))
+* **readme:** add readme detail more ([#20](https://github.com/teeradech-th/poc-semver-canary/issues/20)) ([9deec35](https://github.com/teeradech-th/poc-semver-canary/commit/9deec35d8e226d6a174f01b3faa713ac46755209))
+* **version:** console out version ([#21](https://github.com/teeradech-th/poc-semver-canary/issues/21)) ([aa593bc](https://github.com/teeradech-th/poc-semver-canary/commit/aa593bcb11046ef63ebcfeb66a61a50dad79be07))
+
 # [1.3.0-development.3](https://github.com/teeradech-th/poc-semver-canary/compare/v1.3.0-development.2...v1.3.0-development.3) (2025-04-10)
 
 
