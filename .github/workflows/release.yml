@@ -8,6 +8,10 @@ on:
 env:
   GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
 
+permissions:
+  id-token: write
+  contents: write 
+
 jobs:
   release:
     name: Release
