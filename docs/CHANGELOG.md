@@ -1,3 +1,10 @@
+## [1.4.2](https://github.com/teeradech-th/poc-semver-canary/compare/v1.4.1...v1.4.2) (2025-04-10)
+
+
+### Bug Fixes
+
+* **console:** hotfix console ([#24](https://github.com/teeradech-th/poc-semver-canary/issues/24)) ([b575c96](https://github.com/teeradech-th/poc-semver-canary/commit/b575c961716aa7a4628cc55f536846fb352f907a))
+
 ## [1.4.1](https://github.com/teeradech-th/poc-semver-canary/compare/v1.4.0...v1.4.1) (2025-04-10)
 
 
