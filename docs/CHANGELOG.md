@@ -1,3 +1,10 @@
+# [1.2.0-development.2](https://github.com/teeradech-th/poc-semver-canary/compare/v1.2.0-development.1...v1.2.0-development.2) (2025-04-10)
+
+
+### Bug Fixes
+
+* **release:** change dev channel name ([#10](https://github.com/teeradech-th/poc-semver-canary/issues/10)) ([2d2f9b0](https://github.com/teeradech-th/poc-semver-canary/commit/2d2f9b0197c500e11c6e93fc26827027c1cdb01e)), closes [#6](https://github.com/teeradech-th/poc-semver-canary/issues/6) [#7](https://github.com/teeradech-th/poc-semver-canary/issues/7) [#7](https://github.com/teeradech-th/poc-semver-canary/issues/7) [#7](https://github.com/teeradech-th/poc-semver-canary/issues/7)
+
 # [1.2.0-development.1](https://github.com/teeradech-th/poc-semver-canary/compare/v1.1.0...v1.2.0-development.1) (2025-04-10)
 
 
