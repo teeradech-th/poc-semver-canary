@@ -1,7 +1,7 @@
 module.exports = {
   dryRun: false,
   branches: [
-    { name: 'main' },
+    { name: 'main', },
     { name: 'development', channel: 'dev', prerelease: true },
   ],
   plugins: [
