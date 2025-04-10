@@ -1,3 +1,10 @@
+## [1.0.1](https://github.com/teeradech-th/poc-semver-canary/compare/v1.0.0...v1.0.1) (2025-04-10)
+
+
+### Bug Fixes
+
+* **release:** npmPublish to false ([#5](https://github.com/teeradech-th/poc-semver-canary/issues/5)) ([12f4170](https://github.com/teeradech-th/poc-semver-canary/commit/12f4170cf5f06421c20c77dc40ccdfb46b0b9ec8))
+
 # 1.0.0 (2025-04-10)
 
 
