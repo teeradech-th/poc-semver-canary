@@ -4,6 +4,7 @@ on:
   push:
     branches:
       - main
+      - development
 
 env:
   GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
