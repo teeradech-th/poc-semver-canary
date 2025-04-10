@@ -1,3 +1,10 @@
+# [1.1.0-development.2](https://github.com/teeradech-th/poc-semver-canary/compare/v1.1.0-development.1...v1.1.0-development.2) (2025-04-10)
+
+
+### Features
+
+* **node-version:** specific node engines ([#7](https://github.com/teeradech-th/poc-semver-canary/issues/7)) ([91bbb6d](https://github.com/teeradech-th/poc-semver-canary/commit/91bbb6d016ed0d8a176cd3332f23e91e9abb0431))
+
 # [1.1.0-development.1](https://github.com/teeradech-th/poc-semver-canary/compare/v1.0.1...v1.1.0-development.1) (2025-04-10)
 
 
