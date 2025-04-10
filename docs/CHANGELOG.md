@@ -1,3 +1,10 @@
+# [1.3.0-development.3](https://github.com/teeradech-th/poc-semver-canary/compare/v1.3.0-development.2...v1.3.0-development.3) (2025-04-10)
+
+
+### Features
+
+* **version:** console out version ([#21](https://github.com/teeradech-th/poc-semver-canary/issues/21)) ([aa593bc](https://github.com/teeradech-th/poc-semver-canary/commit/aa593bcb11046ef63ebcfeb66a61a50dad79be07))
+
 # [1.3.0-development.2](https://github.com/teeradech-th/poc-semver-canary/compare/v1.3.0-development.1...v1.3.0-development.2) (2025-04-10)
 
 
