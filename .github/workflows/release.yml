@@ -1,10 +1,15 @@
 name: 📦 Release
 
 on:
-  push:
+  pull_request_target:
+    types: [closed]
     branches:
       - main
       - development
+  # push:
+  #   branches:
+  #     - main
+  #     - development
 
 env:
   GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
