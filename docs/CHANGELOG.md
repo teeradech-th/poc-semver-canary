@@ -1,3 +1,10 @@
+# [1.3.0-development.2](https://github.com/teeradech-th/poc-semver-canary/compare/v1.3.0-development.1...v1.3.0-development.2) (2025-04-10)
+
+
+### Features
+
+* **readme:** add readme detail more ([#20](https://github.com/teeradech-th/poc-semver-canary/issues/20)) ([9deec35](https://github.com/teeradech-th/poc-semver-canary/commit/9deec35d8e226d6a174f01b3faa713ac46755209))
+
 # [1.3.0-development.1](https://github.com/teeradech-th/poc-semver-canary/compare/v1.2.1-development.1...v1.3.0-development.1) (2025-04-10)
 
 
