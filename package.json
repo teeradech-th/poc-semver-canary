@@ -1,6 +1,6 @@
 {
   "name": "poc-semver-canary",
-  "version": "1.6.3",
+  "version": "1.6.4-next.1",
   "description": "",
   "engines": {
     "node": ">=20 <21"
