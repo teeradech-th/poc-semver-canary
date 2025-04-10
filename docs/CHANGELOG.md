@@ -1,3 +1,10 @@
+# [1.1.0-development.1](https://github.com/teeradech-th/poc-semver-canary/compare/v1.0.1...v1.1.0-development.1) (2025-04-10)
+
+
+### Features
+
+* **semver:** prerelease config ([#6](https://github.com/teeradech-th/poc-semver-canary/issues/6)) ([05d6899](https://github.com/teeradech-th/poc-semver-canary/commit/05d6899b34abd8b84a2a0fcb1d41cddf67036e54))
+
 ## [1.0.1](https://github.com/teeradech-th/poc-semver-canary/compare/v1.0.0...v1.0.1) (2025-04-10)
 
 
