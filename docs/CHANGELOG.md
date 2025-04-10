@@ -1,3 +1,10 @@
+# [1.2.0-development.4](https://github.com/teeradech-th/poc-semver-canary/compare/v1.2.0-development.3...v1.2.0-development.4) (2025-04-10)
+
+
+### Bug Fixes
+
+* **gha:** change release event ([#14](https://github.com/teeradech-th/poc-semver-canary/issues/14)) ([24401ad](https://github.com/teeradech-th/poc-semver-canary/commit/24401ad33060895b83a8666d5d3ce8bf33848382))
+
 # [1.2.0-development.3](https://github.com/teeradech-th/poc-semver-canary/compare/v1.2.0-development.2...v1.2.0-development.3) (2025-04-10)
 
 
